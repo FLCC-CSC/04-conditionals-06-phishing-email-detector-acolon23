@@ -27,7 +27,7 @@ elif "password" in subject_lower or "reset" in subject_lower:
     print("LOW RISK: Verify legitimacy with sender.")
 else:
     print("No phishing indicators detected.")
-print("-------------------------")
+print("------------------------")
 print('Analyzed subject: "' + subject + '"')
 
 ########### END YER CODE ABOVE THIS LINE ###########
