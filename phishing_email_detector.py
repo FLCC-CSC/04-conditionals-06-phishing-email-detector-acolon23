@@ -1,8 +1,8 @@
 # FILE NAME - phishing_email_detector.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Anthony Colon
+# DATE: March 8th, 2026
+# BRIEF DESCRIPTION:  Phishing email detector
 
 
 
