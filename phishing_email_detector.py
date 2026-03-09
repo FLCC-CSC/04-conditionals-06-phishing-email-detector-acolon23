@@ -27,7 +27,7 @@ elif "password" in subject_lower or "reset" in subject_lower:
     print("LOW RISK: Verify legitimacy with sender.")
 else:
     print("No phishing indicators detected.")
-print("-------------------------")
+print("------------------------")
 print('Analyzed subject: "' + subject + '"')
 
 ########### END YER CODE ABOVE THIS LINE ###########
@@ -59,7 +59,7 @@ Analyzed subject: "URGENT REQUEST FOR BANK TRANSFER"
 '''
 
 '''
-Enter the email subject line: All I do is win win win no matter what
+Enter the email subject line: 
 
 SECURITY ASSESSMENT:
 MEDIUM RISK: Suspicious offer detected.
